@@ -1,0 +1,6 @@
+﻿  class.cpp
+d:\853506\lvl up\class\class\class.cpp(71): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\853506\lvl up\class\class\class.cpp(116): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\853506\lvl up\class\class\class.cpp(118): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  class.vcxproj -> D:\853506\Lvl Up\class\Debug\class.exe
+  class.vcxproj -> D:\853506\Lvl Up\class\Debug\class.pdb (Full PDB)
